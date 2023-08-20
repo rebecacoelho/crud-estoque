@@ -113,7 +113,7 @@ tbody tr td.acao {
 }
 
 input {
-  border-radius: ;
+  border-radius: 10px;
 }
 
 @media (max-width: 700px) {
